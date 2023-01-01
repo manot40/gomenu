@@ -1,0 +1,6 @@
+# Dotfiles
+.tmp
+.env
+
+out
+data
